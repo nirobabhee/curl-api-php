@@ -14,5 +14,5 @@ The output will be looked like a "demo.png".
 Note: 
 1. You can update only the index.php page, Please do not modify the api.php file.
 2 . Use the body index to show the popup model detailed data that the API index is using.
-
+url:  http://localhost/php/curl-api-php/index.php
 
