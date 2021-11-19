@@ -1,0 +1,18 @@
+Read carefully:
+
+********=>You must use PHP for data retrieval and display.*********=>
+
+Rest API link: 
+$default='https://jsonplaceholder.typicode.com/posts';
+
+
+Task-1. Retrieve data from the API by the API library and display it in the HTML table.
+Task-2. Show details data on the popup modal
+
+The output will be looked like a "demo.png".
+
+Note: 
+1. You can update only the index.php page, Please do not modify the api.php file.
+2 . Use the body index to show the popup model detailed data that the API index is using.
+
+
